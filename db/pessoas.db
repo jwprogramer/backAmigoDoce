@@ -1,42 +1,42 @@
 [
   {
     "name": "John Wendel",
-    "drawn": "Luiz Fabiano",
-    "drawnBy": "Luiza"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Leticia",
-    "drawn": "Julia",
-    "drawnBy": "Jhone"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Ana Paula",
-    "drawn": "Samuel",
-    "drawnBy": "Julia"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Julia",
-    "drawn": "Ana Paula",
-    "drawnBy": "Leticia"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Jhone",
-    "drawn": "Leticia",
-    "drawnBy": "Samuel"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Luiza",
-    "drawn": "John Wendel",
-    "drawnBy": "Luiz Fabiano"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Luiz Fabiano",
-    "drawn": "Luiza",
-    "drawnBy": "John Wendel"
+    "drawn": null,
+    "drawnBy": null
   },
   {
     "name": "Samuel",
-    "drawn": "Jhone",
-    "drawnBy": "Ana Paula"
+    "drawn": null,
+    "drawnBy": null
   }
 ]
