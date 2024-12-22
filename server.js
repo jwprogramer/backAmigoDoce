@@ -1,15 +1,10 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
-
-// Configurar Express para permitir o acesso de outras origens (CORS)
-const cors = require('cors');
-app.use(cors());
-
-// Configuração para lidar com as requisições JSON
-app.use(express.json());
+const cors = require('cors');  // Importar o CORS
 
 const app = express();
+app.use(cors());  // Habilitar CORS para todas as rotas
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
